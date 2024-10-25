@@ -22,8 +22,8 @@
 
 ## INFOS
 
-* [Vehicles List]()
-* [MODS links]()
+* [Vehicles List](https://github.com/Dking07/fivem-very-heavy-handling-pack/blob/main/Vehicles%20List)
+* [MODS links](https://github.com/Dking07/fivem-very-heavy-handling-pack/blob/main/MODS%20links)
 
 ## DOWNLOAD
 
