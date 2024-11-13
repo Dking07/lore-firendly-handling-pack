@@ -6,12 +6,12 @@
 
 # STYLE
 
-### Very heavy handling.
+* ### Class B, C and D very heavy;
+* ### S and A a little easier.
 
 # SERVERS THAT USE
 
 * [NorthRP](https://discord.gg/rpnorth)
-* ...
 
 ## CHANGES
 
