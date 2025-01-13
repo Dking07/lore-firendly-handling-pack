@@ -11,7 +11,7 @@
 
 # SERVERS THAT USE
 
-* [NorthRP](https://discord.gg/rpnorth)
+* [SubversiveRP](https://discord.com/invite/subversive)
 
 ## CHANGES
 
@@ -22,8 +22,8 @@
 
 ## INFOS
 
-* [Vehicles List](https://github.com/Dking07/fivem-very-heavy-handling-pack/blob/main/Vehicles%20List)
-* [MODS links](https://github.com/Dking07/fivem-very-heavy-handling-pack/blob/main/MODS%20links)
+* [Vehicles List]()
+* [MODS links]()
 
 ## DOWNLOAD
 
