@@ -9,10 +9,6 @@
 * ### Class B, C and D very heavy;
 * ### S and A a little easier.
 
-# SERVERS THAT USE
-
-* [SubversiveRP](https://discord.com/invite/subversive)
-
 ## CHANGES
 
 * Vanilla and lore friendly mods.
